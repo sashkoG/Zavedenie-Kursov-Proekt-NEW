@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\zavednie_dimaka_consoleapp-main\zavedenieDimov\zavedenieDimov\bin\Debug\zavedenieDimov.exe.config
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\zavednie_dimaka_consoleapp-main\zavedenieDimov\zavedenieDimov\bin\Debug\zavedenieDimov.exe
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\zavednie_dimaka_consoleapp-main\zavedenieDimov\zavedenieDimov\bin\Debug\zavedenieDimov.pdb
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\zavednie_dimaka_consoleapp-main\zavedenieDimov\zavedenieDimov\obj\Debug\zavedenieDimov.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\zavednie_dimaka_consoleapp-main\zavedenieDimov\zavedenieDimov\obj\Debug\zavedenieDimov.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\zavednie_dimaka_consoleapp-main\zavedenieDimov\zavedenieDimov\obj\Debug\zavedenieDimov.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\zavednie_dimaka_consoleapp-main\zavedenieDimov\zavedenieDimov\obj\Debug\zavedenieDimov.exe
+C:\Users\STUDENTS-1409-5\Desktop\dimoff\zavednie_dimaka_consoleapp-main\zavedenieDimov\zavedenieDimov\obj\Debug\zavedenieDimov.pdb
